@@ -6,21 +6,4 @@ Result = DIO (originial input - reconstucted output)
 ##########TASK2#######
 identy residue-pair for discrimination (Feature importance)
 #######TASK3###
-Extract the important residues from Feature importance (Residue important)
-
-
-
-
-
-
-
-
-###########script for TASK1#####
-######Load the Libraies 
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import random
-from sklearn.neural_network import MLPRegressor
-from sklearn.model_selection import train_test_split
-
+Extract the important residues from Feature importance (Residue importance)
