@@ -12,6 +12,6 @@ Extract the important residues from Feature importance (Residue importance)
 
 
 
-#################################autoencoder script with detailed explanation attached here in pdf and doc format with name autoencoder_script.pdf######
+#################################autoencoder script with detailed explanation attached here in pdf and doc format with name Autoencoder_script.pdf######
 #####################################Application of this in jupyter notebook for my resaerch dataset attached with name twister_merge.ipynb#######
 ####### Correspodning Research article link (applied this method) : https://doi.org/10.1080/07391102.2024.2427364 ####
